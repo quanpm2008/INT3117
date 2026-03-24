@@ -25,11 +25,6 @@ public class CaculateInsuranceFee {
             result += 700;
         }
 
-
         return result;
-
     }
-
-
-
 }
